@@ -1,0 +1,10 @@
+name = "ProyectosLogica"
+version = "0.1.0"
+defaultTargets = ["proyectoslogica"]
+
+[[lean_lib]]
+name = "ProyectosLogica"
+
+[[lean_exe]]
+name = "proyectoslogica"
+root = "Main"
